@@ -31,7 +31,7 @@ A step-by-step explanation of how the program operates:
 2. Run the script using the command:
 
     ```bash
-    python Daily_Python_22.py
+    python N-Queens Problem.py
     ```
 
 3. Description of expected output:
